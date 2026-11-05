@@ -1,20 +1,20 @@
 <h1 align="center">Salut, moi c'est Abdelghani 👋</h1>
-<h3 align="center">Développeur Full Stack · Passionné de cybersecurite · En recherche d'alternance</h3>
+<h3 align="center">Développeur Full Stack · Passionné de cybersécurité · En recherche d'alternance</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=D%C3%A9veloppeur+Full+Stack;Web+%E2%80%A2+Mobile+%E2%80%A2+IA;Je+cherche+une+alternance+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=D%C3%A9veloppeur+Full+Stack;Web+%E2%80%A2+Mobile+%E2%80%A2+Cybers%C3%A9curit%C3%A9;Je+cherche+une+alternance+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
 ---
 
 ### 🙋‍♂️ À propos de moi
 
-- 🎓 Étudiant en **3ème Année de bachelor** à **Colint School**
-- 💼 Je recherche une **alternance en développement** à partir de **01/09/2026** (rythme : 3j entreprise 2j école)
-- 🌐 Je développe des applications **web** (Node.js, Flask, PHP), **mobiles** (Flutter) et des projets d'**intelligence artificielle** (PyTorch, TensorFlow)
-- 🌱 En ce moment j'apprends : ****
-- 📫 Me contacter : **saidiabdelghani0703@gmail**
-- 🌍 Mon portfolio : **https://abdel-portfolio-s.saidiabdelghani0703.workers.dev/**
+- 🎓 Étudiant en **3ᵉ année de bachelor** à **Colint School**
+- 💼 Je recherche une **alternance en développement**, disponible **dès que possible** (rythme : 3 jours en entreprise / 2 jours à l'école)
+- 🌐 Je développe des applications **web** (Node.js, Flask, PHP) et **mobiles** (Flutter)
+- 🛡️ Je m'intéresse à la **cybersécurité** : analyse réseau, sécurité web, CTF
+- 📫 Me contacter : **saidiabdelghani0703@gmail.com**
+- 🌍 Mon portfolio : [abdel-portfolio-s.saidiabdelghani0703.workers.dev](https://abdel-portfolio-s.saidiabdelghani0703.workers.dev/)
 
 ---
 
@@ -34,14 +34,14 @@
   <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 </p>
 
-**🌐 Web & Back-end**
+**🌐 Web, Back-end & Mobile**
 
 <p>
   <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
   <img alt="Flask" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
   <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
 </p>
-
 
 **🛡️ Cybersécurité**
 
@@ -69,38 +69,33 @@
   <img alt="VS Code" src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
 </p>
 
-  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img alt="Express" src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white"/>
-  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img alt="Firebase" src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
-  <img alt="Tailwind" src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
-  <img alt="C#" src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
-
+---
 
 ### 🚀 Projets à la une
 
 | Projet | Description | Technos |
 |---|---|---|
+| 🎓 [**[Nom du projet PFE]**]([lien du dépôt]) | **Projet de fin d'études** : [une phrase sur le besoin et la solution] | [technos] |
 | 🌍 [**Portfolio**](https://abdel-portfolio-s.saidiabdelghani0703.workers.dev/) | Mon site personnel, déployé sur Cloudflare | HTML · CSS · JavaScript |
 | 🤖 [**[Nom du projet IA]**]([lien du dépôt]) | [Une phrase : ce que fait le projet et ce que vous avez appris] | Python · PyTorch |
+| 🛡️ [**[Nom du projet cyber]**]([lien du dépôt]) | [Une phrase : ex. scanner de ports en Python, write-ups de CTF, audit de sécurité d'une appli web] | Python · Bash · Kali Linux |
 | 🌐 [**[Nom du projet web]**]([lien du dépôt]) | [Une phrase sur l'appli web / API] | Node.js · Flask · SQL |
 
-### 📊 Statistiques GitHub
+---
 
-<p align="center">
- 
+### 📊 Statistiques GitHub
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SaidIa0703&theme=radical&hide_border=true" alt="GitHub Streak"/>
 </p>
 
+---
+
 ### 🤝 Me contacter
 
 <p align="center">
   <a href="https://github.com/SaidIa0703"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/www.linkedin.com/in/abdelghani-saidi-0469982a0"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/abdelghani-saidi-0469982a0"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:saidiabdelghani0703@gmail.com"><img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://abdel-portfolio-s.saidiabdelghani0703.workers.dev/"><img src="https://img.shields.io/badge/Portfolio-F38020?style=for-the-badge&logo=cloudflare&logoColor=white"/></a>
 </p>
