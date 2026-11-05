@@ -42,22 +42,18 @@
   <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
 
-**📱 Mobile & Jeu vidéo**
+
+**🛡️ Cybersécurité**
 
 <p>
-  <img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
-  <img alt="Unity" src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white"/>
-</p>
-
-**🤖 Intelligence artificielle & Data**
-
-<p>
-  <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
-  <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-  <img alt="Keras" src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>
-  <img alt="Hugging Face" src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
-  <img alt="OpenCV" src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
-  <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+  <img alt="Kali Linux" src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white"/>
+  <img alt="Wireshark" src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
+  <img alt="Nmap" src="https://img.shields.io/badge/Nmap-0E83CD?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
+  <img alt="Burp Suite" src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white"/>
+  <img alt="Metasploit" src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white"/>
+  <img alt="OWASP" src="https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white"/>
+  <img alt="TryHackMe" src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white"/>
+  <img alt="Hack The Box" src="https://img.shields.io/badge/Hack%20The%20Box-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black"/>
 </p>
 
 **⚙️ DevOps & Outils**
@@ -89,9 +85,7 @@
 |---|---|---|
 | 🌍 [**Portfolio**](https://abdel-portfolio-s.saidiabdelghani0703.workers.dev/) | Mon site personnel, déployé sur Cloudflare | HTML · CSS · JavaScript |
 | 🤖 [**[Nom du projet IA]**]([lien du dépôt]) | [Une phrase : ce que fait le projet et ce que vous avez appris] | Python · PyTorch |
-| 📱 [**[Nom de l'appli mobile]**]([lien du dépôt]) | [Une phrase sur l'appli] | Flutter · Dart |
 | 🌐 [**[Nom du projet web]**]([lien du dépôt]) | [Une phrase sur l'appli web / API] | Node.js · Flask · SQL |
-| 🎮 [**[Nom du jeu]**]([lien du dépôt]) | [Une phrase sur le jeu] | Unity · C# |
 
 ### 📊 Statistiques GitHub
 
@@ -112,7 +106,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=TON_PSEUDO_GITHUB&color=f75c7e&style=flat" alt="Vues du profil"/>
+  <img src="https://komarev.com/ghpvc/?username=SaidIa0703&color=f75c7e&style=flat" alt="Vues du profil"/>
 </p>
 
 <p align="center"><strong>Merci de votre visite, à bientôt ! 🚀</strong></p>
