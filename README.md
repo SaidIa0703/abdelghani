@@ -93,22 +93,16 @@
 | 🌐 [**[Nom du projet web]**]([lien du dépôt]) | [Une phrase sur l'appli web / API] | Node.js · Flask · SQL |
 | 🎮 [**[Nom du jeu]**]([lien du dépôt]) | [Une phrase sur le jeu] | Unity · C# |
 
----
-
 ### 📊 Statistiques GitHub
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=SaidIa0703&show_icons=true&theme=radical&hide_border=true" alt="Stats GitHub"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaidIa0703
-&layout=compact&langs_count=6&theme=radical&hide_border=true" alt="Langages les plus utilisés"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaidIa0703&layout=compact&langs_count=6&theme=radical&hide_border=true" alt="Langages les plus utilisés"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SaidIa0703
-&theme=radical&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SaidIa0703&theme=radical&hide_border=true" alt="GitHub Streak"/>
 </p>
-
----
 
 ### 🤝 Me contacter
 
