@@ -73,8 +73,6 @@
   <img alt="VS Code" src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
 </p>
 
-<!--
-  À AJOUTER SEULEMENT SI VOUS LES MAÎTRISEZ (supprimez ce commentaire et gardez les badges utiles) :
   <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
   <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
   <img alt="Express" src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white"/>
@@ -83,15 +81,13 @@
   <img alt="Firebase" src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
   <img alt="Tailwind" src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
   <img alt="C#" src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
--->
 
----
 
 ### 🚀 Projets à la une
 
 | Projet | Description | Technos |
 |---|---|---|
-| 🌍 [**Portfolio**]([lien du dépôt]) | Mon site personnel, déployé sur Cloudflare | HTML · CSS · JavaScript |
+| 🌍 [**Portfolio**](https://abdel-portfolio-s.saidiabdelghani0703.workers.dev/) | Mon site personnel, déployé sur Cloudflare | HTML · CSS · JavaScript |
 | 🤖 [**[Nom du projet IA]**]([lien du dépôt]) | [Une phrase : ce que fait le projet et ce que vous avez appris] | Python · PyTorch |
 | 📱 [**[Nom de l'appli mobile]**]([lien du dépôt]) | [Une phrase sur l'appli] | Flutter · Dart |
 | 🌐 [**[Nom du projet web]**]([lien du dépôt]) | [Une phrase sur l'appli web / API] | Node.js · Flask · SQL |
@@ -102,12 +98,14 @@
 ### 📊 Statistiques GitHub
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=TON_PSEUDO_GITHUB&show_icons=true&theme=radical&hide_border=true" alt="Stats GitHub"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TON_PSEUDO_GITHUB&layout=compact&langs_count=6&theme=radical&hide_border=true" alt="Langages les plus utilisés"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=SaidIa0703&show_icons=true&theme=radical&hide_border=true" alt="Stats GitHub"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaidIa0703
+&layout=compact&langs_count=6&theme=radical&hide_border=true" alt="Langages les plus utilisés"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TON_PSEUDO_GITHUB&theme=radical&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SaidIa0703
+&theme=radical&hide_border=true" alt="GitHub Streak"/>
 </p>
 
 ---
@@ -115,10 +113,10 @@
 ### 🤝 Me contacter
 
 <p align="center">
-  <a href="https://github.com/TON_PSEUDO_GITHUB"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/TON_PROFIL_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:TON_EMAIL"><img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="TON_PORTFOLIO"><img src="https://img.shields.io/badge/Portfolio-F38020?style=for-the-badge&logo=cloudflare&logoColor=white"/></a>
+  <a href="https://github.com/SaidIa0703"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/www.linkedin.com/in/abdelghani-saidi-0469982a0"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:saidiabdelghani0703@gmail.com"><img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://abdel-portfolio-s.saidiabdelghani0703.workers.dev/"><img src="https://img.shields.io/badge/Portfolio-F38020?style=for-the-badge&logo=cloudflare&logoColor=white"/></a>
 </p>
 
 <p align="center">
