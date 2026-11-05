@@ -74,9 +74,10 @@
 ### 🚀 Projets à la une
 | Projet | Description | Technos |
 |---|---|---|
-| 🎓 [**My SmartBudget**](https://smarterbudget.net/login) | **Projet de fin d'études** : application web de gestion de budget personnel. Suivi des revenus et dépenses par catégorie, tableaux de bord et graphiques pour visualiser où part l'argent, comptes utilisateurs sécurisés. | [ex. Node.js · Flask · MySQL] |
-| 🌍 [**Portfolio**](https://abdel-portfolio-s.saidiabdelghani0703.workers.dev/) | Mon site personnel, déployé sur Cloudflare | HTML · CSS · JavaScript |
+| 🎓 [**My SmartBudget**](https://smarterbudget.net/login) | **Projet de fin d'études** : application web de gestion de budget personnel. Suivi des revenus et dépenses par catégorie, tableaux de bord et graphiques pour visualiser où part l'argent, comptes utilisateurs sécurisés. | Next.js · React · TypeScript · Tailwind CSS · Node.js · Express · PostgreSQL · MongoDB · JWT · Docker · NGINX · AWS EC2 · GitHub Actions |
+| 🌍 [**Portfolio**](https://abdel-portfolio-s.saidiabdelghani0703.workers.dev/) | Mon site personnel : site statique avec en-têtes de sécurité (CSP), déployé sur Cloudflare | Next.js · React · TypeScript · Cloudflare Workers |
 | 🛡️ [**PortScanner**](https://github.com/SaidIa0703/PortScanner) | Scanner de ports TCP en Python, multithreadé : détection des ports ouverts, identification des services courants (bannières), export des résultats en JSON. Outil pédagogique à n'utiliser que sur des machines autorisées. | Python · Sockets · Threading |
+
 
 ---
 
