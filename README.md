@@ -72,14 +72,11 @@
 ---
 
 ### 🚀 Projets à la une
-
 | Projet | Description | Technos |
 |---|---|---|
-| 🎓 [**[Nom du projet PFE]**]([lien du dépôt]) | **Projet de fin d'études** : [une phrase sur le besoin et la solution] | [technos] |
+| 🎓 [**My SmartBudget**](https://smarterbudget.net/login) | **Projet de fin d'études** : application web de gestion de budget personnel. Suivi des revenus et dépenses par catégorie, tableaux de bord et graphiques pour visualiser où part l'argent, comptes utilisateurs sécurisés. | [ex. Node.js · Flask · MySQL] |
 | 🌍 [**Portfolio**](https://abdel-portfolio-s.saidiabdelghani0703.workers.dev/) | Mon site personnel, déployé sur Cloudflare | HTML · CSS · JavaScript |
-| 🤖 [**[Nom du projet IA]**]([lien du dépôt]) | [Une phrase : ce que fait le projet et ce que vous avez appris] | Python · PyTorch |
-| 🛡️ [**[Nom du projet cyber]**]([lien du dépôt]) | [Une phrase : ex. scanner de ports en Python, write-ups de CTF, audit de sécurité d'une appli web] | Python · Bash · Kali Linux |
-| 🌐 [**[Nom du projet web]**]([lien du dépôt]) | [Une phrase sur l'appli web / API] | Node.js · Flask · SQL |
+| 🛡️ [**PortScanner**](https://github.com/SaidIa0703/PortScanner) | Scanner de ports TCP en Python, multithreadé : détection des ports ouverts, identification des services courants (bannières), export des résultats en JSON. Outil pédagogique à n'utiliser que sur des machines autorisées. | Python · Sockets · Threading |
 
 ---
 
