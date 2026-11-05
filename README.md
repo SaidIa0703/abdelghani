@@ -1,5 +1,5 @@
 <h1 align="center">Salut, moi c'est Abdelghani 👋</h1>
-<h3 align="center">Développeur Full Stack · Passionné d'IA · En recherche d'alternance</h3>
+<h3 align="center">Développeur Full Stack · Passionné de cybersecurite · En recherche d'alternance</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=D%C3%A9veloppeur+Full+Stack;Web+%E2%80%A2+Mobile+%E2%80%A2+IA;Je+cherche+une+alternance+%F0%9F%9A%80" alt="Typing SVG" />
@@ -9,13 +9,12 @@
 
 ### 🙋‍♂️ À propos de moi
 
-- 🎓 Étudiant en **[votre formation]** à **[votre école]**
-- 💼 Je recherche une **alternance en développement** à partir de **[date]** (rythme : [rythme])
+- 🎓 Étudiant en **3ème Année de bachelor** à **Colint School**
+- 💼 Je recherche une **alternance en développement** à partir de **01/09/2026** (rythme : 3j entreprise 2j école)
 - 🌐 Je développe des applications **web** (Node.js, Flask, PHP), **mobiles** (Flutter) et des projets d'**intelligence artificielle** (PyTorch, TensorFlow)
-- 🎮 J'aime aussi créer des jeux avec **Unity**
-- 🌱 En ce moment j'apprends : **[ex. TypeScript, React, déploiement cloud…]**
-- 📫 Me contacter : **[votre e-mail]**
-- 🌍 Mon portfolio : **[lien vers votre portfolio]**
+- 🌱 En ce moment j'apprends : ****
+- 📫 Me contacter : **saidiabdelghani0703@gmail**
+- 🌍 Mon portfolio : **https://abdel-portfolio-s.saidiabdelghani0703.workers.dev/**
 
 ---
 
